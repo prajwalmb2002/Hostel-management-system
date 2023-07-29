@@ -1,0 +1,46 @@
+Introduction to C
+******************
+
+C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, 
+with a static type system. By design, C provides constructs that map efficiently to typical machine instructions. It has found lasting use 
+in applications previously coded in assembly language. Such applications include operating systems and various application software for computer 
+architectures that range from supercomputers to PLCs and embedded systems.A successor to the programming language B, C was originally developed at Bell
+Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix. It was applied to re-implementing the kernel of the Unix operating system. 
+During the 1980s, C gradually gained popularity. It has become one of the most widely used programming languages, with C compilers from various vendors
+available for the majority of existing computer architectures and operating systems. C has been standardized by the ANSI since 1989 (ANSI C) and by the 
+International Organization for Standardization (ISO).
+C is an imperative procedural language. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently
+to machine instructions, all with minimal runtime support. Despite its low-level capabilities, the language was designed to encourage cross-platform programming.
+A standards-compliant C program written with portability in mind can be compiled for a wide variety of computer platforms and operating systems with few changes 
+to its source code.
+
+Problem statement
+*****************
+Problems faced during the admission of the students in the college or 
+Hostel. Management faces some serios problems during this time.
+
+And in computer-based data management system we just need to upload the data to 
+the program itself and it can be used any time for the report generation and for 
+looking at various statistics.
+
+Hardware requirement
+********************
+C programming can be basically run on any workstation which has UNIX system, MS-DOS
+system, Windows system, UNIX like Solaris, IRIX, GNU/Linux, BSD, Mac OS, Fedora.
+All u need is as a minimum, you should have at least amount space for data and a processing RAM of good quality requirement is enough run a c programming in a system. A keyboard for a system and mouse is a basic necessity for handling a system.
+
+
+Software requirement
+********************
+There is a large amount of software on which we can run a C program. To construct a C program all 
+we need is a text editor and a C compiler. All we need the files we create with our editor are called 
+the source files and they contain the program source codes. The source files for C programs are 
+typically named with the extension ".c".
+The source code written in source file is the human readable source for your program. It needs to be 
+"compiled", into machine language so that your CPU can actually execute the program as per the instructions 
+given. The compiler compiles the source codes into final executable programs. The most frequently used and free 
+available compiler is the turbo C++, otherwise you can have compilers either from HP or Solaris if you have the 
+respective operating systems.
+
+
+
